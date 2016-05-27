@@ -23,5 +23,5 @@ KARLA CANETE FORTOZO
 <gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0"/>
 <!-- Colocar icono app -->
 
-<icon src="res/android/piano.png"/>
+<icon src="res/android/mdpi.png"/>
 </widget>
